@@ -1,10 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name:"Tren Bala" tv-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg?x83745", Tren Bala
+#EXTINF:-1 tvg-name:"Tren Bala" tvg-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg?x83745", Tren Bala
 https://872371067.tapecontent.net/radosgw/3BKeDPKxYKidOZV/_X9tCkxFG2eCPDwFhSJ9lAjjOQYOj5BvdgEmwXk-Ch34rTx2xgkDc4d7_HUo7ae4kRlWi86v9T1QTDV_D-HJYujvuLLrqO18C4xHqqOrVN4TiOPgyT4hk780VSK2NSkSz3sKPg2MnVb4D1gZWVMYtHYYSc3PPS7Jp-rJOAsEL5s7CQcvB4Bm_1-66booIycPoyE8CQh6gAXxz2MRIqcYP4zigpMA3tzwditpC7pkPrvzr1-7diP7Ey9smwlQlVY-hznN7jOXVoP4iV_454v5GfgrpDZGMqJgnOHIyx6dAsfxoDbhnq7XfRjksEQYPmRWsAM9ix95LicDeo7n/72233--0d95478e-65ce-487a-bfe0-62341abe0354--nber--656941-streamtape.mp4
 
-#EXTINF:-1 tv-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg?x83745", Justicia Implacable
+#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg?x83745", Justicia Implacable
 https://2475155092.tapecontent.net/radosgw/OP4QVpQPDQuZplZ/QIk3q2cIXhifilbFZgLcFt-IMMRAgZxVxUjH4AwR_P0Gb5F4Wy0gwIc2DQ4xW_ehmqPDMtV0pN7Q4H5JdzER8GbLimFFqYyOGL7Vdo4aiOdqSCoc8HBUUvWwpE1-ziLao3jKrlDrs-EVRrq2AbfSJ-VJCd25gaGe_vLhjoOEFs6iGw8ML9D49463JyKL2c75JwZj4qyJwnNniOwRM1JUrWUahctDpQteVbsqWEgtyEX5LivjZO9W1-2gJnCN4tDDocqfeShpiu-ClQ_EOo0GJRWLN3ovYYPQDgBtKA/%5B637649%5D%5BL%5D%5BHD%5D.mp4
 
-#EXTINF:-1 tv-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg?x83745", Asesino sin Memoria
+#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg?x83745", Asesino sin Memoria
 https://www1236.ff-03.com/token=bR6q18N9oLODRTiNtMnIUQ/1673408800/181.121.0.0/157/9/f5/f49e85e23644f7e9b36ff0f329a7cf59-720p.mp4
 
+#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/xwSvBAEfYGwnyy5p9dgxyCQIzuv.jpg?x83745", Charlie y la fábrica de chocolate
+https://www124.ff-01.com/token=lL8mPHIG3DG7LmqJBJ4buA/1673411944/181.121.0.0/125/6/02/128cd3028d9d59c09abd019fd071d026-720p.mp4
+
+#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/6aQfiKqi19Orx4fhoICSib58xzx.jpg?x83745", Gato con Botas 2
+https://www45.ff-01.com/token=407Jdk0SVsf3DmBw1df-Dw/1673412214/181.121.0.0/26/b/ed/246b1c0fa23ef0709e5488c46e9c6edb-720p.mp4
