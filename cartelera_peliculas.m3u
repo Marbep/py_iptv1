@@ -24,7 +24,8 @@ group-title="Películas", Charlie y la fábrica de chocolate
 #EXTINF:-1 
 tvg-name:"El gato con botas: El último deseo"
 tvg-logo:"https://image.tmdb.org/t/p/w185/6aQfiKqi19Orx4fhoICSib58xzx.jpg"
-group-title="Películas", El gato con botas: El último deseo
+group-title="Animaciones", El gato con botas: El último deseo
+https://s97.upstreamcdn.co/hls2/01/04304/yu3z8k13qyoh_o/master.m3u8?t=5gNrKecG0RHIqN7pjQ0Qip6vUORPQof4-kktOymrOFk&s=1673476275&e=10800&f=21520035&i=0.0&sp=0
 
 
 #EXTINF:-1 
@@ -33,4 +34,9 @@ tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg"
 group-title="Series", Yellowstone · S1E1
 https://s30.upstreamcdn.co/hls2/01/02908/ihrhbktnxloq_n/master.m3u8?t=XlXR2Yx_aAdcV7o8O1mrQXFXdMVpn8q3GgxpKb5IOF4&s=1673475184&e=10800&f=14544497&i=0.0&sp=0
 
+#EXTINF:-1 
+tvg-name:"Fall (Vértigo)"
+tvg-logo:"http://gnula.nu/wp-content/uploads/2022/09/Fall_poster_usa.jpg" 
+group-title="Películas", Yellowstone · S1E1
+https://s96.upstreamcdn.co/hls2/01/04290/syoyb0u56tql_n/master.m3u8?t=JPY162tGkpyaERUUIB2I8d5m2d-c70Ntv4G5Zxfni0c&s=1673476713&e=10800&f=21451083&i=0.0&sp=0
 
