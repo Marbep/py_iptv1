@@ -1,21 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-name:"Tren Bala" tvg-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg", Tren Bala
-https://872371067.tapecontent.net/radosgw/3BKeDPKxYKidOZV/_X9tCkxFG2eCPDwFhSJ9lAjjOQYOj5BvdgEmwXk-Ch34rTx2xgkDc4d7_HUo7ae4kRlWi86v9T1QTDV_D-HJYujvuLLrqO18C4xHqqOrVN4TiOPgyT4hk780VSK2NSkSz3sKPg2MnVb4D1gZWVMYtHYYSc3PPS7Jp-rJOAsEL5s7CQcvB4Bm_1-66booIycPoyE8CQh6gAXxz2MRIqcYP4zigpMA3tzwditpC7pkPrvzr1-7diP7Ey9smwlQlVY-hznN7jOXVoP4iV_454v5GfgrpDZGMqJgnOHIyx6dAsfxoDbhnq7XfRjksEQYPmRWsAM9ix95LicDeo7n/72233--0d95478e-65ce-487a-bfe0-62341abe0354--nber--656941-streamtape.mp4
+#EXTINF:-1 
+tvg-name:"Tren Bala" 
+tvg-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg" 
+group-title="Películas", Tren Bala
 
-#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg", Justicia Implacable
-https://2475155092.tapecontent.net/radosgw/OP4QVpQPDQuZplZ/QIk3q2cIXhifilbFZgLcFt-IMMRAgZxVxUjH4AwR_P0Gb5F4Wy0gwIc2DQ4xW_ehmqPDMtV0pN7Q4H5JdzER8GbLimFFqYyOGL7Vdo4aiOdqSCoc8HBUUvWwpE1-ziLao3jKrlDrs-EVRrq2AbfSJ-VJCd25gaGe_vLhjoOEFs6iGw8ML9D49463JyKL2c75JwZj4qyJwnNniOwRM1JUrWUahctDpQteVbsqWEgtyEX5LivjZO9W1-2gJnCN4tDDocqfeShpiu-ClQ_EOo0GJRWLN3ovYYPQDgBtKA/%5B637649%5D%5BL%5D%5BHD%5D.mp4
+#EXTINF:-1
+tvg-name:"Justicia Implacable"
+tvg-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg" 
+group-title="Películas", Justicia Implacable
 
-#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg", Asesino sin Memoria
-https://www1236.ff-03.com/token=bR6q18N9oLODRTiNtMnIUQ/1673408800/181.121.0.0/157/9/f5/f49e85e23644f7e9b36ff0f329a7cf59-720p.mp4
 
-#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/xwSvBAEfYGwnyy5p9dgxyCQIzuv.jpg", Charlie y la fábrica de chocolate
-https://908471762.tapecontent.net/radosgw/gwpxVZRpexfqb42/cPBGyE4SR82yQWa7zZCznlaxXolmE0bBJ6Sb3vHtSXa1eb8yI05TbWe5BzUocwyZiw-55TXKW0Tz6ybhsMixoHs3uL8UudHcUyCXdiXQa39mBjeBkZZfv8ri3CSATOGLbruZDelARfoZBWV6F9jPMZXR4-ipPyfji3BvP3rewY0-1Z2w1bX0MIR-QOcDzzJGyYH6jdKhQlRA3iHU4N_OtgGXjWRYSknu6OaqDUXcP8RdB1d2-gGosvcy47UyF5K_8cE28KSqpHTND_S1KRF7TyE0Kq6tpOCeVz287ebc0A_5qcJywMCmJavWs7VPxMtgueIOlSF7wOmrQk4-/30329--6c614779-eae3-4b2b-af87-ce8b081f1f58--hyvp--270874-streamtape.mp4
+#EXTINF:-1 
+tvg-name:"Asesino sin Memoria"
+tvg-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg" 
+group-title="Películas", Asesino sin Memoria
 
-#EXTINF:-1 tvg-logo:"https://image.tmdb.org/t/p/w185/6aQfiKqi19Orx4fhoICSib58xzx.jpg", Gato con Botas 2
-https://2371821717.tapecontent.net/radosgw/m3jq8xqaM2hVZR/OHMntO14YG3XOIc8g_SndtMgDcIabVPCwNVXQQneZ5Z6a86GQaf7fViGWMl-9lI8brtJWbp6IjXFLE4VGqE67Dqk0SE4OMXdsSDSuRRR_5hwMOfqO8RVqZavcQXDGVuujNUdL5U3sLGoSNEh2Eb5W1D21H_l07UzyZ1h5_hUqk_hSGRYYgyuW_835xmhUsmanIj0y6KftjLuQxRtFEpQoHrIMLikVStfpMSDt-EQYbays2PyBCps00zqeVTmsuGq4Nm1MW2kZadDYBUdmdE82urbh5-8QiZdCijkEQ/%5B315162%5D%5BL%5D%5BHD%5D.mp4
 
-#EXTINF:-1 tvg-logo:"https://static.wikia.nocookie.net/yellowstone_0/images/b/b8/Yellowstone_Season_1.jpg", Yellowstone S1C7
-https://860568899.tapecontent.net/radosgw/zK1YOd78LyIYPR0/xzL8RhDXbh1aNl-0GGVnLbzpWjfEBD7Pqrr1Gg8TZ56GuPcMYx26y3s0g2foM9ttGZUe8ZCljX488WSVP7O9MSTo-yT0XCA3i50-84RjzR5IntIfl5SRI9VsCaxS9dS1qhiYjGVMRs8Uad6CngrranJeUFDLizCGY8S53vne9zGowpE6XHCKOSmX_Xx3aHvQrI4qnmXJ-Z-L82b8ih4UH5Mt-TD1HzDzHirwGLuvK1w4Jh8LCdG6xvWA4tOqWi56pTqFDtfDygdiL0oqlSh7L-iFymckcashdSMVhIn9o2knjMKVChnzXWGGIyc6_jV0xRVYDemhm1lvKmr-/31699--d8bae6e7-3508-4673-b60d-d5f2c5829fc8--czqx--283672-streamtape.mp4
+#EXTINF:-1
+tvg-name:"Charlie y la fábrica de Chocolate"
+tvg-logo:"https://image.tmdb.org/t/p/w185/xwSvBAEfYGwnyy5p9dgxyCQIzuv.jpg"
+group-title="Películas", Charlie y la fábrica de chocolate
 
-#EXTINF:-1 tvg-logo:"https://static.wikia.nocookie.net/yellowstone_0/images/b/b8/Yellowstone_Season_1.jpg" Yellowstone S1C7 test
-https://860568899.tapecontent.net/radosgw/zK1YOd78LyIYPR0/xzL8RhDXbh1aNl-0GGVnLbzpWjfEBD7Pqrr1Gg8TZ56GuPcMYx26y3s0g2foM9ttGZUe8ZCljX488WSVP7O9MSTo-yT0XCA3i50-84RjzR5IntIfl5SRI9VsCaxS9dS1qhiYjGVMRs8Uad6CngrranJeUFDLizCGY8S53vne9zGowpE6XHCKOSmX_Xx3aHvQrI4qnmXJ-Z-L82b8ih4UH5Mt-TD1HzDzHirwGLuvK1w4Jh8LCdG6xvWA4tOqWi56pTqFDtfDygdiL0oqlSh7L-iFymckcashdSMVhIn9o2knjMKVChnzXWGGIyc6_jV0xRVYDemhm1lvKmr-/31699--d8bae6e7-3508-4673-b60d-d5f2c5829fc8--czqx--283672-streamtape.mp4
+#EXTINF:-1 
+tvg-name:"El gato con botas: El último deseo"
+tvg-logo:"https://image.tmdb.org/t/p/w185/6aQfiKqi19Orx4fhoICSib58xzx.jpg"
+group-title="Películas", El gato con botas: El último deseo
+
+
+#EXTINF:-1 
+tvg-name:"Yellowstone · S1E1"
+tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg" 
+group-title="Series", Yellowstone · S1E1
+https://s30.upstreamcdn.co/hls2/01/02908/ihrhbktnxloq_n/master.m3u8?t=XlXR2Yx_aAdcV7o8O1mrQXFXdMVpn8q3GgxpKb5IOF4&s=1673475184&e=10800&f=14544497&i=0.0&sp=0
+
+
