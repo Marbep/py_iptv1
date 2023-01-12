@@ -1,42 +1,21 @@
 #EXTM3U
-#EXTINF:-1 
-tvg-name:"Tren Bala" 
-tvg-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg" 
-group-title="Películas", Tren Bala
+#EXTINF:-1 tvg-name:"Tren Bala" tvg-logo:"https://image.tmdb.org/t/p/w185/tnPGFoeQpLznLplytqPjmvRIJ2F.jpg" group-title="Películas", Tren Bala
 https://stapadblockuser.xyz/get_video?id=3BKeDPKxYKidOZV&expires=1673549817&ip=F0uNKRWTDI9XKxR&token=34tBG3patxxF&stream=1
 
-#EXTINF:-1
-tvg-name:"Justicia Implacable"
-tvg-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg" 
-group-title="Películas", Justicia Implacable
+#EXTINF:-1tvg-name:"Justicia Implacable" tvg-logo:"https://image.tmdb.org/t/p/w185/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="Películas", Justicia Implacable
 https://stapadblockuser.xyz/get_video?id=OP4QVpQPDQuZplZ&expires=1673550389&ip=F0uNKRWTDI9XKxR&token=4QCOVNQXC_8Z&stream=1
 
-#EXTINF:-1 
-tvg-name:"Asesino sin Memoria"
-tvg-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg" 
-group-title="Películas", Asesino sin Memoria
+#EXTINF:-1 tvg-name:"Asesino sin Memoria" tvg-logo:"https://image.tmdb.org/t/p/w185/gzHJ8Z9afJagPCCOaPETmsKY6WO.jpg" group-title="Películas", Asesino sin Memoria
 https://www820.ff-02.com/token=u_FBLhpGl66rTE7kPFhFTg/1673494577/181.121.0.0/157/9/f5/f49e85e23644f7e9b36ff0f329a7cf59-720p.mp4
 
-#EXTINF:-1 
-tvg-name:"Yellowstone · S1E1"
-tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg" 
-group-title="Series", Yellowstone · S1E1
+#EXTINF:-1 tvg-name:"Yellowstone · S1E1" tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg" group-title="Series", Yellowstone · S1E1
 https://s30.upstreamcdn.co/hls2/01/02908/ihrhbktnxloq_n/master.m3u8?t=XlXR2Yx_aAdcV7o8O1mrQXFXdMVpn8q3GgxpKb5IOF4&s=1673475184&e=10800&f=14544497&i=0.0&sp=0
 
-#EXTINF:-1 
-tvg-name:"Yellowstone · S1E2"
-tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg" 
-group-title="Series", Yellowstone · S1E2
+#EXTINF:-1 tvg-name:"Yellowstone · S1E2" tvg-logo:"https://tmdbcdn2.fun/sys/poster/fkr8343rgfwhpp1u2-m.jpg" group-title="Series", Yellowstone · S1E2
 https://stapadblockuser.xyz/get_video?id=OavzQglZzATZZpo&expires=1673551041&ip=F0uNKRWTDI9XKxR&token=DBKKeDYM82S-&stream=1
 
-#EXTINF:-1 
-tvg-name:"Fall (Vértigo)"
-tvg-logo:"http://gnula.nu/wp-content/uploads/2022/09/Fall_poster_usa.jpg" 
-group-title="Películas", Fall (Vértigo)
+#EXTINF:-1 tvg-name:"Fall (Vértigo)" tvg-logo:"http://gnula.nu/wp-content/uploads/2022/09/Fall_poster_usa.jpg" group-title="Películas", Fall (Vértigo)
 https://stapadblockuser.xyz/get_video?id=eoxY14bR7OHYyjr&expires=1673549635&ip=F0uNKRWTDI9XKxR&token=qoeUyM_8h4B1&stream=1
 
-#EXTINF:-1 
-tvg-name:"Tulsa King · S1E2"
-tvg-logo:"https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg" 
-group-title="Series", Tulsa King · S1E2
+#EXTINF:-1 tvg-name:"Tulsa King · S1E4" tvg-logo:"https://image.tmdb.org/t/p/w185/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg" group-title="Series", Tulsa King · S1E4
 https://stapadblockuser.xyz/get_video?id=ggYDKxjrKpuxXA&expires=1673552729&ip=F0uNKRWTDI9XKxR&token=tdKz0nmKNmy1&stream=1
